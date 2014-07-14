@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.jsimone</groupId>
+  <artifactId>webapp-runner</artifactId>
+  <versioning>
+    <versions>
+      <version>7.0.54.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140714205448</lastUpdated>
+  </versioning>
+</metadata>
